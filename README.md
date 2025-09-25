@@ -1,2 +1,3 @@
-# init-ts-react-vite
-Initial setup based on TS, React, and Vite
+# React + TypeScript + Vite
+
+1. npx create-vite@latest my-app 로 설치
